@@ -1,6 +1,6 @@
 # Global Air Quality - Exploratory Data Analysis
 
-![Air Quality Banner](https://i.imgur.com/6E3w8Cg.png)
+![Air Quality Banner](https://www.cdc.gov/yellow-book/media/images/2025/02/3.3-Air-Quality-and-Ionizing-Radiation-During-Travel.jpg)
 
 ## 📖 Overview
 
@@ -102,8 +102,6 @@ Here are some of the visualizations you will find in the notebook:
 -   An interactive world map with markers for each city, showing the average PM2.5 levels.
 -   Time series plots to visualize daily and monthly trends in air quality.
 
-*(Placeholder for a key visualization image, e.g., the world map)*
-![Geospatial Analysis](https://i.imgur.com/example.png)
 
 ## 💡 Key Findings
 
