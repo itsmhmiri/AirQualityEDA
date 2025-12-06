@@ -51,7 +51,7 @@ This project uses the following Python libraries:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/AirQualityEDA.git
+    git clone https://github.com/itsmhmiri/AirQualityEDA.git
     cd AirQualityEDA
     ```
 
